@@ -25,7 +25,7 @@ body {background-color: rgba(143, 143, 143, 0.479);
 .lampeheader2 {height: 55vh; width: auto; transform: translateX(-22vw);}
 .lampeheader3 {height: 40vh; width: auto; transform: translateX(0vw); z-index: 2;}
 .lampeheader4 {height: 65vh; width: auto; transform: translateX(20vw); margin-top: -35px; z-index: 1;}
-.lampeheader5 {height: 45vh; width: auto; transform: translateX(40vw); margin-top: -10px;}
+.lampeheader5 {height: 45vh; width: auto; transform: translateX(40vw); margin-top: 0px;}
 
 .leheader img.anim.lampeheader1 {transform: translateX(-40vw);}
 .leheader img.anim.lampeheader2 {transform: translateX(-22vw);}
